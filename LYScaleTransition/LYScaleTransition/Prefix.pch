@@ -1,0 +1,14 @@
+//
+//  Prefix.pch
+//  LYScaleTransition
+//
+//  Created by YiTe on 15/11/21.
+//  Copyright © 2015年 LuYang. All rights reserved.
+//
+
+#ifndef Prefix_pch
+#define Prefix_pch
+
+#import "Header.h"
+#import <UIKit/UIKit.h>
+#endif /* Prefix_pch */
